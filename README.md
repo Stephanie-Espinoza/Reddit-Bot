@@ -7,7 +7,7 @@ This bot is opposing Donald Trump, Greg Abbott, and Mitch McConell.
 
 ## bot_counter.py file output
 
-'''
+```
 Stephanies-MacBook-Air:CSCI040 stephanie$ /usr/local/bin/python3 /Users/stephanie/Desktop/CSCI040/bot_counter.py --username=rb-bot
 len(comments)= 967
 len(top_level_comments)= 76
@@ -20,7 +20,7 @@ valid_comments= 955
 ========================================
 NOTE: the number valid_comments will be used to determine your grade
 
-'''
+```
 
 
 ## Favorite Thread
