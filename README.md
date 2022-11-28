@@ -25,8 +25,10 @@ NOTE: the number valid_comments will be used to determine your grade
 
 ## Favorite Thread
 https://www.reddit.com/r/cs40_2022fall/comments/z6eizd/if_youre_in_a_battleground_state/ 
+
 I like that in this thread the reply is somewhat relevant so it does not seem out of place. However, I also find it funny because the submission is talking about a battleground state and the reply is talking about a third party. 
-![Thread Screenshot](/Users/stephanie/Desktop/CSCI040/project_screenshot.png)
+
+![Thread Screenshot](project_screenshot.png)
 
 
 ## What My Score Should Be
